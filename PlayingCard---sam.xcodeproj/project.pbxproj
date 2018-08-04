@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72405AA02114FB3A007A89C3 /* PlayingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72405A9F2114FB3A007A89C3 /* PlayingCardView.swift */; };
 		7246503E210CC0D1006435FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7246503D210CC0D1006435FF /* ViewController.swift */; };
 		72465041210CC0D1006435FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7246503F210CC0D1006435FF /* Main.storyboard */; };
 		72465043210CC0D2006435FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72465042210CC0D2006435FF /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		72405A9F2114FB3A007A89C3 /* PlayingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardView.swift; sourceTree = "<group>"; };
 		72465038210CC0D1006435FF /* PlayingCard---sam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PlayingCard---sam.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7246503D210CC0D1006435FF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		72465040210CC0D1006435FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				72465047210CC0D2006435FF /* Info.plist */,
 				7246504E210CC1F9006435FF /* PlayingCard.swift */,
 				72465050210CCA34006435FF /* PlayingCardDeck.swift */,
+				72405A9F2114FB3A007A89C3 /* PlayingCardView.swift */,
 			);
 			path = "PlayingCard---sam";
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				72465054210CD498006435FF /* AppDelegate.swift in Sources */,
 				72465051210CCA34006435FF /* PlayingCardDeck.swift in Sources */,
 				7246504F210CC1F9006435FF /* PlayingCard.swift in Sources */,
+				72405AA02114FB3A007A89C3 /* PlayingCardView.swift in Sources */,
 				7246503E210CC0D1006435FF /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
